@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/307_activity.iml" filepath="$PROJECT_DIR$/307_activity.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/HTML Table Sections.iml" filepath="$PROJECT_DIR$/HTML Table Sections.iml" />
+>>>>>>> 03d97a62a030d723755dc7b5c2eb768cb2e5c804
     </modules>
   </component>
 </project>
