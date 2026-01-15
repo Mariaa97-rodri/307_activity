@@ -5,4 +5,9 @@ table{
     border-collapse: collapse;
     width: 100%;
     text-align: center;
+    border: 5px solid green;
+}
+td:hover{
+    background-color: lightcoral;
+    color: white;
 }
